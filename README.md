@@ -1,5 +1,5 @@
 <h1 align="center">
-  <a href="https://github.com/Satisfy4339/ARM"><img src="https://cdn.discordapp.com/attachments/1131146717140623380/1131503026478252052/mainframe.png" width="128" height="128"></a>
+  <a href="https://github.com/Satisfy4339/ARM"><img src="https://cdn.discordapp.com/attachments/1131146717140623380/1131503026478252052/mainframe.png" width="50" height="50"></a>
   Mainframe
 </h1>
 
