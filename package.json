@@ -1,5 +1,16 @@
 {
   "dependencies": {
     "discord.js": "^14.11.0"
-  }
+  },
+  "name": "mainframe-alpha",
+  "description": "<h1 align=\"center\">\r   <a href=\"https://github.com/Satisfy4339/Mainframe\"><img src=\"https://cdn.discordapp.com/attachments/1131146717140623380/1131503026478252052/mainframe.png\" width=\"50\" height=\"50\"></a>\r   <p style=\"text-align: center;\">Mainframe</p>\r </h1>",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
 }
